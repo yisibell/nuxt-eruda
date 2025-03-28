@@ -1,6 +1,6 @@
 {
   "name": "nuxt-eruda",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Nuxt(3) module for mobile devtools via eruda.",
   "author": {
     "name": "elenh",
